@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:seguiemj.ttf",
+            "file": "minecraft:notocoloremoji.ttf",
             "shift": [0.0, 1.5],
             "size": 8.0,
             "oversample": 16.0
@@ -14,7 +14,7 @@
         },
         {
             "type": "ttf",
-            "file": "minecraft:seguisym.ttf",
+            "file": "minecraft:notoemojiregular.ttf",
             "shift": [0.0, 1.5],
             "size": 8.0,
             "oversample": 16.0
