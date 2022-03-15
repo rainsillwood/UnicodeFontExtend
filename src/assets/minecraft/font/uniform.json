@@ -8,11 +8,6 @@
             "oversample": 16.0
         },
         {
-            "type": "legacy_unicode",
-            "sizes": "minecraft:font/glyph_sizes.bin",
-            "template": "minecraft:font/unicode_page_%s.png"
-        },
-        {
             "type": "ttf",
             "file": "minecraft:notoemojiregular.ttf",
             "shift": [0.0, 1.5],
@@ -21,7 +16,28 @@
         },
         {
             "type": "ttf",
-            "file": "minecraft:simsunb_xyb.ttf",
+            "file": "minecraft:TH-Tshyn-P0.ttf",
+            "shift": [0.0, 1.5],
+            "size": 8.0,
+            "oversample": 16.0
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:TH-Tshyn-P1.ttf",
+            "shift": [0.0, 1.5],
+            "size": 8.0,
+            "oversample": 16.0
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:TH-Tshyn-P2.ttf",
+            "shift": [0.0, 1.5],
+            "size": 8.0,
+            "oversample": 16.0
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:TH-Tshyn-P16.ttf",
             "shift": [0.0, 1.5],
             "size": 8.0,
             "oversample": 16.0
